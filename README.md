@@ -1,7 +1,17 @@
-[![GitHub followers](https://img.shields.io/github/followers/sorinsi.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sorinsi?tab=followers)
+<table>
+  <tr>
+    <td valign="top">
 
-## Articles
+### Social
+* [Linkedin Profile](https://www.linkedin.com/in/sorinsi/)
 
-[Introduction to Replication in PostgreSQL 12 with Docker](https://sorinsi.github.io/articles/intro-postgres-replication.html)
+    </td>
+    <td valign="top">
 
-[Test, build and deploy your React Native application with a CI](https://sorinsi.github.io/articles/test-build-deploy-app.html)
+### Articles
+* [Test, build and deploy your React Native application with a CI](https://sorinsi.github.io/articles/test-build-deploy-app.html)
+* [Introduction to Replication in PostgreSQL 12 with Docker](https://sorinsi.github.io/articles/intro-postgres-replication.html)
+
+    </td>
+  </tr>
+</table>
